@@ -24,7 +24,7 @@ h1 {
 /* Controls and Message Styles */
 .controls {
     padding: 20px;
-    border: 1px solid black;
+    border: 1px solid rgb(3, 3, 3);
 }
 
 .message-container {
